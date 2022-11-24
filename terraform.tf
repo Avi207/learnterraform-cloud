@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "demo-app-2022"
+    organization = "demo-avi-terraform"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "learnterraform-cloud"
     }
   }
   required_providers {
