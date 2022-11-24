@@ -3,7 +3,7 @@ terraform {
     organization = "demo-avi-terraform"
 
     workspaces {
-      name = "learnterraform-cloud"
+      name = "learn-terraform-cloud"
     }
   }
   required_providers {
